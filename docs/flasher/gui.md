@@ -1,5 +1,18 @@
 Flasher has user friendly graphical interface.
 
+Get the latest version:
+
+| Flasher Intsaller |
+|------------|
+| [**Linux**]() |
+
+## Installing Flasher
+
+* Run installer
+* Pick the installation folder
+* Wait for the installation to complete
+
+## Flashing process
 Session starts with initial window prompting you to choose image file and mode (flashing or testing).
 
 <div style="text-align:center"><img src ="../../img/flasher/initial_screen.png"></div>
@@ -14,5 +27,3 @@ In case one or more tests have failed you will see a list of results.
 Here an example of the results view:
 
 <div style="text-align:center"><img src ="../../img/flasher/failed_tests.png"></div>
-
-*Coming soon!*
